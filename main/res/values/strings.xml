@@ -1,0 +1,108 @@
+<resources>
+    <!--Launch1-->
+    <string name="app_name">CalmCloud</string>
+    <string name="image1">image1</string>
+    <string name="welcome_text">Welcome to CalmCloud</string>
+    <string name="launch_text1">Learning Psychology is not just a profession it\'s about understanding people minds.</string>
+
+    <!--Onboard2-->
+    <string name="onboard2_image">image2</string>
+    <string name="onboard2_text">We are here to help you to find the world best psychological resources.</string>
+
+    <!--Onboard3-->
+    <string name="onboard3_image">image3</string>
+    <string name="onboard3_text">Explore a vast Library of resources. Empower yourself with knowledge to psychology</string>
+
+    <!--Onboard navigation-->
+    <string name="arrow_image">image arrow</string>
+    <string name="button_next">Next</string>
+    <string name="button_skip">Skip</string>
+    <string name="button_finish">Finish</string>
+
+    <!--Onboard4-->
+    <string name="onboard4_image">image4</string>
+    <string name="button_start">Let\'s Get started</string>
+
+    <!--Navigation bar-->
+    <string name="profile">profile</string>
+    <string name="music">Podcasts</string>
+    <string name="download">Downloads</string>
+    <string name="library">Library</string>
+    <string name="home">Home</string>
+
+    <!--Toolbar-->
+    <string name="upper_nav_text">Welcome Dora!</string>
+    <string name="logo_image">calmcloud logo</string>
+
+    <!--Homepage-->
+    <string name="banner">psychology banner</string>
+    <string name="home_quote_content">"A failure is not always a mistake; it may simply be the best one can do under the circumstances. The real mistake is to stop trying." \n - B. F. Skinner.</string>
+    <string name="home_description">The psychology of learning is a field of science that encompasses theories about how psychology relates to the ways people learn. Scientists have created many theories about learning based on different disciplines, including: Behaviorism. Neuroscience. Social cognition</string>
+    <string name="home_topic">Let\'s Learn</string>
+
+    <!--Book1-->
+    <string name="book1_topic">Emotional Intelligence</string>
+    <string name="book1">book image</string>
+    <string name="book1_description"> Originally published: 1995\nAuthor: Daniel Goleman \nPages: 352\n\n\tWhy It Can Matter More Than IQ is a 1995 book by Daniel Goleman.In this book, Goleman posits that emotional intelligence is as important as IQ for success, including in academic, professional, social, and interpersonal aspects of one\'s life.</string>
+    <string name="book1_button">Download</string>
+
+    <!--Podcast page-->
+    <string name="music_image">listening podcast</string>
+    <string name="music_play_image">play button</string>
+    <string name="podcast1">\n\t\tLet’s fix our mood</string>
+    <string name="podcast2">\n\t\tGet control of your feelings</string>
+    <string name="podcast3">\n\t\tHow to manage daily to do’s</string>
+    <string name="podcast4">\n\t\tBe a planner</string>
+
+    <!--Profile page-->
+    <string name="profile_image">profile</string>
+    <string name="profile_name">Dora</string>
+    <string name="profile_settings">setting icon</string>
+    <string name="profile_full_name">\t\t\t<b>Name:</b> Dora Stella</string>
+    <string name="profile_email">\t\t\t<b>Email:</b> dora2001@gmail.com</string>
+    <string name="profile_phone">\t\t\t<b>Phone:</b> 0114488800</string>
+    <string name="profile_address">\t\t\t<b>Address:</b> 64/2,Colombo</string>
+    <string name="button_profile_edit">Edit</string>
+    <string name="button_profile_save">Save</string>
+
+    <!--Settings page-->
+    <string name="settings_back_arrow">back arrow</string>
+    <string name="settings_log_out">Log Out</string>
+    <string name="settings_delete">Delete Account</string>
+    <string name="settings_rate_us">Rate Us</string>
+    <string name="settings_ratting">rating</string>
+    <string name="Settings_follow_us">Follow Us</string>
+    <string name="settings_fb">facebook</string>
+    <string name="profile_insta">instagram</string>
+    <string name="profile_twt">twitter</string>
+
+    <!--Analysis page-->
+    <string name="Analysis_completed_books">\n\nCompleted Books\n\n12</string>
+    <string name="Analysis_listened_podcasts">\n\nListened Podcasts\n\n5</string>
+
+    <!--Library page-->
+    <string name="book2">book 2\n</string>
+    <string name="book3">book 3</string>
+    <string name="book4">book 4</string>
+
+    <!--Sign In page-->
+    <string name="signIn_image">Welcome image\n</string>
+    <string name="signIn_password">\t\tPassword</string>
+    <string name="signIn_email">\t\tEmail</string>
+    <string name="sign_in_Button">Sign In</string>
+    <string name="signIn_msg">Welcome Back!</string>
+    <string name="signUp_image">register\n</string>
+    <string name="signIn_redirect_msg">Don’t have an account? Signup</string>
+
+    <!--Sign Up page-->
+    <string name="signUp_name">\t\tName</string>
+    <string name="signUp_phone">\t\tPhone</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="sign_up_msg">Let\'s Sign Up</string>
+    <string name="signup_redirect_msg">Already have an account? Login</string>
+
+    <!--Download page-->
+    <string name="download_button">Delete</string>
+    <string name="download_image">image5</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Fonts-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0D383C</color>
+    <color name="chathams_blue">#2C6975</color>
+
+    <!--Buttons-->
+    <color name="green_sheen">#68B2A0</color>
+
+    <!--Background color-->
+    <color name="background">#CDE0C9</color>
+
+    <!--Navigation Bars-->
+    <color name="nav">#A3BF9F</color>
+
+    <!--Containers-->
+    <color name="box">#9BB697</color>
+    <color name="box1">#BED9BA</color>
+</resources>
