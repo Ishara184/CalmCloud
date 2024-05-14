@@ -1,10 +1,10 @@
+![Join with us (1)](https://github.com/Ishara184/CalmCloud/assets/156680354/bcd1aa13-9c73-4181-83b9-814ec4cfbd1c)
+
 # CalmCloud Mobile Application UI Design
 
 <h3>"CalmCloud" aimed at providing psychological resources for the
 people who prefer to learn about Psychology. The UI design prioritizes accessibility, simplicity, 
 and effectiveness in fostering a positive user experience. </h3>
-
-<img src="
 
 <p>The visual design of the UI incorporates calming colors, and soft gradients so as not to feel 
 uncomfortable while reading books through the application.</p>
